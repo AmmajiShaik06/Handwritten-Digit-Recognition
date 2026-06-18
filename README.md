@@ -100,4 +100,4 @@ Handwritten_Digit_Recognition/
 
 ## Conclusion
 
-This project demonstrates the effectiveness of Convolutional Neural Networks in image classification tasks. The trained model accurately identifies handwritten digits and can be extended for real-world optical character recognition applications.
+This project demonstrates the effectiveness of Convolutional Neural Networks in image classification tasks. The trained model accurately identifies handwritten digits and can be extended for real-world optical character recognition application.
